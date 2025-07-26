@@ -21,3 +21,6 @@
 
 # 必要技術
 個々のプロジェクトのREADMEを参照
+
+# プロジェクト一覧
+https://github.com/siid-dev/siid-quest/projects?query=is%3Aopen
